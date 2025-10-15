@@ -1,0 +1,8 @@
+__pycache__/
+logs/
+artifacts/
+on_chain_info/
+public/
+scripts/
+data/rawdata/
+src/Model/trainedModels/
