@@ -1,6 +1,6 @@
 # Blockchain-Based Energy Trading Architecture
 
-This project is a prototype of the paper "A Blockchain-Based Architecture for Energy Trading to Enhance Power Grid Stability", please find more details of this project in this paper if you are interested.
+This project is a prototype of the paper "A Blockchain-Based Architecture for Energy Trading to Enhance Power Grid Stability". 
 
 ## Project Summary
 Store Smart Contracts:

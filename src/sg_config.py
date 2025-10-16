@@ -6,7 +6,7 @@ import os
 # Blockchain settings
 RPC_URL = "http://127.0.0.1:7545"
 # this address is used to deploy contracts
-PRIVATE_KEY = "" 
+PRIVATE_KEY = "0x5f331919feda7e1ac7d71aa8ee0a0e95907b96545a0a2ceba1ac5fbf53982e84"  # replacing with your own private key
 CHAIN_ID = 1337
 
 # Directory paths
