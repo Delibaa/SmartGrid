@@ -77,3 +77,6 @@ If you change the number of consumers/prosumers:
 python src/DataBean/data_bean.py
 ```
 re-run above steps again
+## License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
