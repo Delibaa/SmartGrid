@@ -6,3 +6,4 @@ public/
 scripts/
 data/rawdata/
 src/Model/trainedModels/
+.DS_Store
